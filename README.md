@@ -2,7 +2,7 @@
 
 # Hi there, I'm Priyank 👋
 
-I'm a software developer passionate about web development and open-source contributions. I love working on projects that solve real-world problems and make a positive impact.
+Technologically adept enthusiast with a solid foundation in Computer Applications, eager to apply my robust knowledge in technology, continuous learning mindset, and collaborative spirit to contribute effectively to global innovation.
 
 ## 🛠 Skills and Technologies
 
