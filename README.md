@@ -29,7 +29,7 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 
 ## 📫 Contact
 
-- Email: [priyank@example.com](mailto:priyank@example.com)
+- Email: [priyankryachura@gmail.com](mailto:priyankraychura@gmail.com)
 - LinkedIn: [Priyank's LinkedIn](https://linkedin.com/in/priyankraychura)
 - Twitter: [@priyankraychura](https://twitter.com/priyankraychura)
 
