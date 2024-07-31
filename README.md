@@ -41,3 +41,7 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=priyankraychura&theme=tokyonight-duo&card_width=600)](https://git.io/streak-stats)
+
+---
+
+![priyankraychura's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankraychura&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
