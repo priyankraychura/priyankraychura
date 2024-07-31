@@ -17,7 +17,7 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 
 ## 🎓 Education
 
-- Pursuing Bachelor’s in Computer Application from Christ Collehe, Rajkot
+- Pursuing Bachelor’s in Computer Application from Christ College, Rajkot
 
 ## 💼 Experience
 
