@@ -29,6 +29,8 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 
 ## 📫 Contact
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=priyankraychura&theme=tokyonight-duo)](https://git.io/streak-stats)
+
 - Email: [priyankryachura@gmail.com](mailto:priyankraychura@gmail.com)
 - LinkedIn: [Priyank's LinkedIn](https://linkedin.com/in/priyankraychura)
 - Twitter: [@priyankraychura](https://twitter.com/priyankraychura)
