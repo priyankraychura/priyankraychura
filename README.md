@@ -47,7 +47,7 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 ![priyankraychura's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankraychura&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=priyankraychura&icon=0&color=6)](https://visitcount.itsvg.in)
