@@ -10,7 +10,7 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 
 ## 🔭 Projects
 
-- [My Django StudyBuddy Project](https://github.com/priyankraychura/StudyBuddy-Django_Project): A simple CRUD application built with Django.
+- [My Django StudyBuddy Project](https://github.com/priyankraychura/StudyBuddy-Django_Project): Study Room Platform allows users to create or join study rooms, engage in discussions, and manage topics. Future plans include video conferencing, real-time collaboration, and a mobile app.
 
 ## 🎓 Education
 
