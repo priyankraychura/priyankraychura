@@ -23,18 +23,19 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 
 ## 🏫 **Education**
 
-### 🎓 **Bachelor of Computer Application (BCA)**  *(2022-2025)*
- - **Christ College, Rajkot** *(Saurashtra University)*  
+- 🎓 **Bachelor of Computer Application (BCA)**  *(2022-2025)*
+  - Christ College, Rajkot *(Saurashtra University)*  
 
-### 🎓 **Bachelor of Commerce (B.Com)** *(2019-2022)*
- - **Sydenham College of Commerce & Economics** *(Dr. Homi Bhabha State University)* - **74.69%**
 
-### 📜 **12th Commerce (HSC)** *(2019)*
- - **Shree L.D.P High School**  *(GSEB)* - **80.86%** 
+- 🎓 **Bachelor of Commerce (B.Com)** *(2019-2022)*
+  - **Sydenham College of Commerce & Economics** *(Dr. Homi Bhabha State University)* - **74.69%**
 
-### 📜 **10th SSC** *(2017)*
-**Gujarat Secondary and Higher Secondary Education Board (GSEB)**  
-- 🏫 **Shree L.N.P High School** *(GSEB)* - **74.86%**  
+
+- 📜 **12th Commerce (HSC)** *(2019)*
+  - **Shree L.D.P High School**  *(GSEB)* - **80.86%** 
+
+- 📜 **10th SSC** *(2017)*
+  -  **Shree L.N.P High School**  *(GSEB)* - **74.86%** 
 
 ## 💼 Experience
 
