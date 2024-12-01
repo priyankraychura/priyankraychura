@@ -4,9 +4,18 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 
 ## 🛠 Skills and Technologies
 
-- **Languages**: Python, JavaScript, C#
-- **Frameworks**: Django, React, .NET
-- **Databases**: MySQL, Sqlite, MongoDB
+- **Programming Languages:**  
+  - 💻 C, C++, Java, JavaScript, C#  
+- **Web Technologies:**  
+  - 🌐 HTML, CSS, Bootstrap  
+- **Web Development:**  
+  - 🛠️ PHP  
+- **Data Structures:**  
+  - 🔢 Implementation and usage  
+- **Database Management:**  
+  - 📂 MySQL, Oracle, MongoDB  
+- **Software Proficiencies:**  
+  - 🖥️ MS Office Suite (Word, Excel, PowerPoint)  
 
 ## 🔭 Projects
 
