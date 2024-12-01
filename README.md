@@ -23,43 +23,25 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 
 ## 🏫 **Education**
 
-### 🎓 **Bachelor of Computer Application (BCA)**
-**Christ College, Rajkot**  
-Vidya Niketan, Rajkot, Gujarat 360005  
-Affiliated to the **Saurashtra University**  
-📅 **June 2022 - Present**  
+### 🎓 **Bachelor of Computer Application (BCA)**  *(2022-2025)*
+ - **Christ College, Rajkot** *(Saurashtra University)*  
 
-- ⏳ Waiting for 3rd Sem result.  
-- ✅ 2nd Sem: **85.5%**  
-- ✅ 1st Sem: **79.33%**
 
 ---
 
-### 🎓 **Bachelor of Commerce (B.Com)**
-**Sydenham College of Commerce & Economics**  
-Churchgate, Mumbai, Maharashtra 400020  
-Affiliated to the **Dr. Homi Bhabha State University**  
-📅 **June 2019 - June 2022**  
-
-- 📘 Excellent knowledge of **accounting**, **bookkeeping**, **taxation**, and **GST**.  
-- 📊 Skilled at reading and understanding **balance sheets**.  
-- 🏅 Graduation Score: **74.69%**
+### 🎓 **Bachelor of Commerce (B.Com)** *(2019-2022)*
+ - **Sydenham College of Commerce & Economics** *(Dr. Homi Bhabha State University)* - **74.69%**
 
 ---
 
-### 📜 **12th Commerce (HSC)**  
+### 📜 **12th Commerce (HSC)** *(2019)*
+ - **Shree L.D.P High School**  *(GSEB)* - **80.86%** 
+
+---
+
+### 📜 **10th SSC** *(2017)*
 **Gujarat Secondary and Higher Secondary Education Board (GSEB)**  
-📅 **March 2019**  
-- 🏫 **Shree L.N.P High School - Bhatiya**  
-- ✅ Cleared with **80.86%**
-
----
-
-### 📜 **10th SSC**  
-**Gujarat Secondary and Higher Secondary Education Board (GSEB)**  
-📅 **March 2017**  
-- 🏫 **Shree L.N.P High School - Bhatiya**  
-- ✅ Cleared with **74.86%**
+- 🏫 **Shree L.N.P High School** *(GSEB)* - **74.86%**  
 
 ## 💼 Experience
 
