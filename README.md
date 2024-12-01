@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Priyank 👋
 
 Technologically adept enthusiast with a solid foundation in Computer Applications, eager to apply my robust knowledge in technology, continuous learning mindset, and collaborative spirit to contribute effectively to global innovation.
@@ -12,8 +10,7 @@ Technologically adept enthusiast with a solid foundation in Computer Application
 
 ## 🔭 Projects
 
-- [My Django CRUD Project](https://github.com/priyankraychura/django-crud): A simple CRUD application built with Django.
-- [React ToDo App](https://github.com/priyankraychura/react-todo): A ToDo list application built with React.
+- [My Django StudyBuddy Project]([https://github.com/priyankraychura/django-crud](https://github.com/priyankraychura/StudyBuddy-Django_Project)): A simple CRUD application built with Django.
 
 ## 🎓 Education
 
